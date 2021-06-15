@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hash-router/static/css/main.a0d7c1fb.chunk.css",
+    "main.js": "/hash-router/static/js/main.b548aef8.chunk.js",
+    "main.js.map": "/hash-router/static/js/main.b548aef8.chunk.js.map",
+    "runtime-main.js": "/hash-router/static/js/runtime-main.75b16ada.js",
+    "runtime-main.js.map": "/hash-router/static/js/runtime-main.75b16ada.js.map",
+    "static/js/2.db5b9e60.chunk.js": "/hash-router/static/js/2.db5b9e60.chunk.js",
+    "static/js/2.db5b9e60.chunk.js.map": "/hash-router/static/js/2.db5b9e60.chunk.js.map",
+    "static/js/3.d6c62620.chunk.js": "/hash-router/static/js/3.d6c62620.chunk.js",
+    "static/js/3.d6c62620.chunk.js.map": "/hash-router/static/js/3.d6c62620.chunk.js.map",
+    "index.html": "/hash-router/index.html",
+    "static/css/main.a0d7c1fb.chunk.css.map": "/hash-router/static/css/main.a0d7c1fb.chunk.css.map",
+    "static/js/2.db5b9e60.chunk.js.LICENSE.txt": "/hash-router/static/js/2.db5b9e60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75b16ada.js",
+    "static/js/2.db5b9e60.chunk.js",
+    "static/css/main.a0d7c1fb.chunk.css",
+    "static/js/main.b548aef8.chunk.js"
+  ]
+}
